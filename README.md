@@ -1,2 +1,2 @@
 # snake-game
-Classic Snake Game in Python
+Classic Snake Game in cpp
